@@ -1,4 +1,5 @@
 # Time-Table
 A Dynamic time table maker ease colleges and schools task to manually do so. 
-Made using HTML, CSS, plain JavaScript (VanillaJS)
-Created for College Fest Competition.
+1. Clone the Repositery
+2. Open main.html in any browser
+
